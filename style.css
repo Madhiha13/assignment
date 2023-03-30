@@ -1,0 +1,127 @@
+    body {
+background-color: brown;
+margin: 0;
+    }
+
+.flex {
+    display: flex;
+}
+
+.container{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem;
+
+}
+
+.text{
+    width:50%;
+}
+
+.img1 {
+    
+    transform: scale(1);
+    display: flex;
+    justify-content: right;
+    margin-right: 0px;
+    float: right;
+}
+
+.container1{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem;
+
+}
+
+.text1 {
+    width:50%;
+}
+
+.img2 {
+    
+    transform: scale(1);
+    display: flex;
+    justify-content: right;
+    margin-right: 0px;
+    float: right;
+}
+
+.container2{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem;
+
+}
+
+.text2 {
+    width:50%;
+}
+
+.img3 {
+    
+    transform: scale(1);
+    display: flex;
+    justify-content: right;
+    margin-right: 0px;
+    float: right;
+}
+
+.container3{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem;
+
+}
+
+.text3 {
+    width:50%;
+}
+
+.img4 {
+    
+    transform: scale(1);
+    display: flex;
+    justify-content: right;
+    margin-right: 0px;
+    float: right;
+}
+.container4{
+
+    justify-content: space-around;
+    align-items: center;
+    padding: .5rem;
+
+}
+
+.img5 {
+    
+    transform: scale(1);
+    display: flex;
+    justify-content: left;
+    margin-left: 2rem;
+    float: left;
+}
+
+.text4 {
+    width:50%;
+    margin-right: 10rem;
+}
+#footer-div{
+    padding-top: 280px;
+    padding-bottom: 280px;
+    margin-top: 280px;
+    border-top: 1px solid ;
+    background-color: #2b4e21;
+}
+
+footer div {
+    align-self: flex-end;
+    background-color: #2b4e21;
+}
+
+
